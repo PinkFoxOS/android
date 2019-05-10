@@ -214,7 +214,7 @@
   <project path="packages/apps/CertInstaller" name="LineageOS/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/CMBugReport" name="LineageOS/android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMFileManager" name="LineageOS/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/CMUpdater" name="PinkFoxOS/android_packages_apps_CMUpdater" revision="cm-13.0-custom" />
+  <project path="packages/apps/CMUpdater" name="LineageOS/android_packages_apps_CMUpdater" revision="cm-13.0" />
   <project path="packages/apps/CMWallpapers" name="LineageOS/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="LineageOS/android_packages_apps_Contacts" groups="pdk-fs" />
   <project path="packages/apps/ContactsCommon" name="LineageOS/android_packages_apps_ContactsCommon" groups="pdk-fs" />
@@ -240,7 +240,7 @@
   <project path="packages/apps/Provision" name="LineageOS/android_packages_apps_Provision" groups="pdk-fs" />
   <project path="packages/apps/Screencast" name="LineageOS/android_packages_apps_Screencast" />
   <project path="packages/apps/Settings" name="PinkFoxOS/android_packages_apps_Settings" groups="pdk-fs" />
-  <project path="packages/apps/SetupWizard" name="PinkFoxOS/android_packages_apps_SetupWizard" />
+  <project path="packages/apps/SetupWizard" name="LineageOS/android_packages_apps_SetupWizard" />
   <project path="packages/apps/SmartCardService" name="LineageOS/android_packages_apps_SmartCardService" groups="pdk-fs" />
   <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" />
   <project path="packages/apps/SoundRecorder" name="LineageOS/android_packages_apps_SoundRecorder" groups="pdk-fs" />
